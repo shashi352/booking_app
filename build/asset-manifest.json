@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/booking-app/static/css/main.2a5c88ca.css",
+    "main.js": "/booking-app/static/js/main.5419bb79.js",
+    "static/js/787.dca3c7cd.chunk.js": "/booking-app/static/js/787.dca3c7cd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/booking-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/booking-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/booking-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/booking-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/booking-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/booking-app/index.html",
+    "main.2a5c88ca.css.map": "/booking-app/static/css/main.2a5c88ca.css.map",
+    "main.5419bb79.js.map": "/booking-app/static/js/main.5419bb79.js.map",
+    "787.dca3c7cd.chunk.js.map": "/booking-app/static/js/787.dca3c7cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5c88ca.css",
+    "static/js/main.5419bb79.js"
+  ]
+}
